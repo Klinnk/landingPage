@@ -1,23 +1,2 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-* {
-    font-family: 'Roboto', sans-serif;
-}
-
-body {
-    background-color: #1F2937;
-}
-
-.hero {
-    size: 48px;
-    
-    color: #F9FAF8;
-}
-
-.hero-secondary {
-
-}
-
-.hero-button {
-
-}
