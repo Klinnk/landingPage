@@ -27,3 +27,5 @@ Quote section bg color
 
 Quote Text
 36px light italic #1F2937
+
+Placeholder images from https://fakeimg.pl/
